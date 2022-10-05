@@ -4,4 +4,4 @@ Description
 
 ## Local development
 
-Additional description
+Additional description.
